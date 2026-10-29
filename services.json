@@ -1,0 +1,10 @@
+{
+  "api-local": {
+    "host": "local",
+    "container": "api"
+  },
+  "web-local": {
+    "host": "local",
+    "container": "web"
+  }
+}
